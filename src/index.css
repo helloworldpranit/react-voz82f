@@ -1,13 +1,5 @@
-body {
-  padding: 30px 20%;
-}
-h1 {
-  font-size: 2em;
-  text-align: center;
-}
-textarea{
-  height: 360px !important;
-}
-card-text{
-  word-break: break-word;
+button,
+.button {
+	margin-bottom: 0 !important;
+	margin-right: .5rem;
 }
